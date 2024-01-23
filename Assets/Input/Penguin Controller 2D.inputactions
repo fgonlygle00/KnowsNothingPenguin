@@ -24,7 +24,7 @@
                     "initialStateCheck": true
                 },
                 {
-                    "name": "AnyKey",
+                    "name": "Nock",
                     "type": "Button",
                     "id": "cd5e7d70-67b8-4722-a8a8-e352ae719afa",
                     "expectedControlType": "Button",
@@ -107,7 +107,7 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "AnyKey",
+                    "action": "Nock",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
